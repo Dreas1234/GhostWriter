@@ -2,6 +2,12 @@
 > Simulate realistic human typing patterns — with natural speed variation, 
 > typos, self-corrections, and thinking pauses.
 
+## Use Cases
+- Typing naturally into web-based document editors
+- Creating authentic-looking screen recordings and demos
+- Accessibility — hands-free document entry
+- Testing keystroke-based input systems
+
 ## What it does
 GhostWriter takes any text and types it for you like a human would — 
 inconsistent speed, occasional mistakes, pauses between paragraphs, 
